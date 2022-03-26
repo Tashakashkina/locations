@@ -1,0 +1,4 @@
+#Sat Mar 26 14:08:48 MSK 2022
+base.0=C\:\\Users\\Juke\\StudioProjects\\study_2503\\study_2503\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
